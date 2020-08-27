@@ -1,0 +1,99 @@
+body {
+	background-image: url(Background3.jpg);
+	color: #111;
+	font: 17px Arial, Helvetica, sans-serif;
+	line-height: 1.5em;
+	margin: 0;
+	
+}
+.container {
+	width: 80%;
+	margin: auto;
+	overflow: auto;
+}
+.top-panel ul{
+	float:right;
+	color: rgb(255, 255, 255);
+	font-size: 20px;
+	list-style: none;	
+}
+.top-panel ul a{
+	color: rgb(255, 255, 255);
+	font: 40px;
+	list-style: none;	
+}
+#top-header .container h1{
+	color:rgb(246, 240, 218);
+	font-style: italic bold;
+	font-size: 40px;
+}
+#links li {
+	display: inline;
+	padding: 3px;
+}
+#about-me {
+	width: 60%;
+	background: linear-gradient(to bottom, #33ccff 0%, #cc66ff 100%);
+	background-position: center;
+	text-align: left;
+
+}
+#image {
+	float:right;
+	margin-top:-170px;
+}
+#education {
+	background: rgb(149, 223, 241);
+	float: left;
+	width: 100%;
+	box-sizing: border-box;
+	margin-top: 15px;
+	border: 1px grey solid;
+	border-radius: 3px;
+}
+#education li{
+	list-style: none;
+}
+#awards {
+	background: rgb(192, 238, 107);
+	float: left;
+	width: 100%;
+	box-sizing: border-box;
+	margin-top: 15px;
+	border: 1px grey solid;
+	border-radius: 3px;
+}
+#skills {
+	background: rgb(219, 145, 248);
+	float: left;
+	width: 100%;
+	box-sizing: border-box;
+	margin-top: 15px;
+	border: 1px grey solid;
+	border-radius: 3px;
+}
+#skills li{
+	list-style: none;
+}
+
+#contact {
+	background: rgb(243, 240, 215);
+	float: left;
+	width: 100%;
+	box-sizing: border-box;
+	margin-top: 15px;
+	border: 1px grey solid;
+	border-radius: 3px;
+}
+#contact li{
+	list-style: none;
+}
+
+
+#main-footer {
+	text-align: center;
+	padding: 15px;
+	margin-top: 800px;
+	color: rgb(255, 255, 255);
+	font-style: bold;
+}
